@@ -1,5 +1,5 @@
 # wxml2json & json2wxml
-
+## 基于HTMLParser的微信小程序wxml-json的解析转换库
 ## How to use
 
 

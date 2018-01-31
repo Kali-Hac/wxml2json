@@ -1,0 +1,27 @@
+{
+  "name": "wxml2json",
+  "version": "1.0.0",
+  "description": "wxml to json & json to wxml",
+  "main": "index.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint -c .eslintrc.js src test bench"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "wxml",
+    "json"
+  ],
+  "author": "Kali-Hac",
+  "bugs": {
+  },
+  "devDependencies": {
+    "eslint": "^2.6.0",
+    "mocha": "^2.4.5"
+  }
+}

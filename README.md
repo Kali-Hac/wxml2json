@@ -36,7 +36,7 @@ memeber of `node` is
 - `text`
 - `comment`
 
-`root` node is the root of JSON, every JSON must have only one root `root`, could have `child`.
+`root` node is the root of JSON, every JSON must have only one root `root`, could have `children`.
 
 `element` node represents html element, could have `tag`, `attr`, `children`.
 

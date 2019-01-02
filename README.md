@@ -260,3 +260,9 @@ json:
 [htmlparser.js](https://github.com/blowsie/Pure-JavaScript-HTML5-Parser)(wxmlparse.js)
 
 repositry includes this at `lib/` as git subtree.
+
+## Version
+
+ * 1.0.2 
+  - fix the bug: "parent = !!parent || []", delete the "!!" to avoid the boolean type conversion , keep the object attribute of "parent"
+

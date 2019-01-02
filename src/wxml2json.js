@@ -136,7 +136,7 @@
         };
         var parent = bufArray[0];
         //Crucial Change
-        parent = !!parent || []
+        parent = parent || []
         if (parent.children === undefined) {
           parent.children = [];
         }

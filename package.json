@@ -1,6 +1,6 @@
 {
   "name": "wxml2json",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "wxml to json & json to wxml",
   "main": "index.js",
   "directories": {},
